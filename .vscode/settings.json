@@ -3,4 +3,3 @@
         "typescript": "clear && npx ts-node --files --transpile-only",
     }
 }
-//npm i ts-node -D
